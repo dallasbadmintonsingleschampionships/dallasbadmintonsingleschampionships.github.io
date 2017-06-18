@@ -1,0 +1,14 @@
+<map id="winners_index" name="winners_index">
+  <area href="Winners/MS A Finalists and umpire.JPG" shape="rect" coords="0,0,127,180" alt="" />
+  <area href="Winners/MS A Runner up.JPG" shape="rect" coords="128,0,255,180" alt="" />
+  <area href="Winners/MS A Winner.JPG" shape="rect" coords="256,0,383,180" alt="" />
+  <area href="Winners/MS B Finalists.JPG" shape="rect" coords="384,0,511,180" alt="" />
+  <area href="Winners/MS B Winner.JPG" shape="rect" coords="0,181,127,361" alt="" />
+  <area href="Winners/MS C Winner.JPG" shape="rect" coords="128,181,255,361" alt="" />
+  <area href="Winners/SMS Finalists.JPG" shape="rect" coords="256,181,383,361" alt="" />
+  <area href="Winners/SMS Runner up.JPG" shape="rect" coords="384,181,511,361" alt="" />
+  <area href="Winners/SMS Winner.JPG" shape="rect" coords="0,362,127,542" alt="" />
+  <area href="Winners/Umpires.JPG" shape="rect" coords="128,362,255,542" alt="" />
+  <area href="Winners/WS Finalists.JPG" shape="rect" coords="256,362,383,542" alt="" />
+  <area href="Winners/WS Winner.JPG" shape="rect" coords="384,362,511,542" alt="" />
+</map>

@@ -1,0 +1,10 @@
+<map id="INDEX" name="INDEX">
+  <area href="MSA-Officials1.jpg" shape="rect" coords="0,0,144,186" alt="" />
+  <area href="MSA-Officials2.jpg" shape="rect" coords="145,0,289,186" alt="" />
+  <area href="MSB.jpg" shape="rect" coords="290,0,434,186" alt="" />
+  <area href="MSC.jpg" shape="rect" coords="435,0,579,186" alt="" />
+  <area href="SMS.jpg" shape="rect" coords="580,0,724,186" alt="" />
+  <area href="SWS.jpg" shape="rect" coords="0,187,144,373" alt="" />
+  <area href="SWS2.jpg" shape="rect" coords="145,187,289,373" alt="" />
+  <area href="WS.jpg" shape="rect" coords="290,187,434,373" alt="" />
+</map>
